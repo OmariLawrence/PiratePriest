@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">revision</string>
+    <string-array name="Alignment">
+        <item>Lawful Good</item>
+        <item>Lawful Neutral</item>
+        <item>Lawful Evil</item>
+        <item>Neutral Good</item>
+        <item>(True) Neutral</item>
+        <item>Neutral Evil</item>
+        <item>Chaotic Good</item>
+        <item>Chaotic Neutral</item>
+        <item>Chaotic Evil</item>
+    </string-array>
 </resources>
